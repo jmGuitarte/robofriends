@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'space_questregular';
+    src: url('spacequest-yoy3-webfont.woff2') format('woff2'),
+         url('spacequest-yoy3-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+h1 {
+	font-family: 'space_questregular';
+	font-weight: 200;
+	color: #0ccac4;
+}
